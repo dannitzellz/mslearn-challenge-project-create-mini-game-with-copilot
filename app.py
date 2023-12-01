@@ -46,7 +46,7 @@ def play():
         #show the user their final score
         print(f"Your final score is {user_score}")
         print("Thanks for playing!")
-        time.sleep(1)
+        time.sleep(10)
         os.system('clear')
         exit()
     
